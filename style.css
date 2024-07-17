@@ -1,0 +1,16 @@
+div {
+    flex: 1;
+}
+
+#dasboard {
+    display: grid;
+}
+
+#sidebar {
+    grid-column: 1 / 3;
+    background-color: blue;
+}
+
+#main-content {
+    background-color: gray;
+}
