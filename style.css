@@ -69,6 +69,14 @@ div {
     grid-column: 3 / 4;
 }
 
-#buttons > button {
-    grid-column: auto / span 1;
+#new {
+    grid-column: 1 / 2;
+}
+
+#upload {
+    grid-column: 2 / 3;
+}
+
+#share {
+    grid-column: 3 / 4;
 }
